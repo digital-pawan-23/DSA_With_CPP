@@ -9,5 +9,5 @@ int main(){
     cin>>B;
     float Sum = A+B;
     cout<<"Final Result : " <<Sum; 
-    return 0;
+    return 0; 
 }
