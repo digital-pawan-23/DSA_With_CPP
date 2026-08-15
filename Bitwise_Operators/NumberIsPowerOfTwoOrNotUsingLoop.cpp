@@ -8,6 +8,7 @@ int main(){
     while(n>1){
         if(n%2 != 0){
             cout<<"Not Power Of Two.";
+            break;
         }
         else{
             n = n >> 1;
